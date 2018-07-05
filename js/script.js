@@ -1,3 +1,4 @@
+// Carousel Customization
 $(function(){
 
     $('.carousel').carousel({
