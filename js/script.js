@@ -1,4 +1,3 @@
-// jQuery for alert slide-down.
 $(function(){
 
     $('.carousel').carousel({
