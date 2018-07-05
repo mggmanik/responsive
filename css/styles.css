@@ -31,6 +31,11 @@ body{
     height: 220px;
 }
 
+/* Jumbotron */
+.jumbotron{
+    background: lightcyan;
+}
+
 /* Footer */
 footer{
     font-size: 11px;

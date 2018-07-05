@@ -1,10 +1,10 @@
 // jQuery for alert slide-down.
 $(function(){
 
-    $('#alertMe').click(function(e){
-
-            e.preventDefault();
-        $('#dangerAlert').slideDown();
+    $('.carousel').carousel({
+        interval:3000,
+        keyboard:true,
+        pause:'hover',
     });
 
 });
